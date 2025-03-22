@@ -21,6 +21,12 @@ public class ArithmeticOperator {
 		float d = b/a;
 		
 		System.out.println("Division : " + d);
+		// subtracting two variables
+		
+		int e = b-c;
+		
+		System.out.println("Subtraction: " + e);
+
 
 	}
 
