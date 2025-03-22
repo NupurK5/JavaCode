@@ -10,6 +10,11 @@ public class ArithmeticOperator {
 		int c = a + b ;
 		
 		System.out.println("Adition : " + c );
+		
+		
+		//multiplication of two variables
+		
+		System.out.println("Multiplcation: " + a*b);
 
 	}
 
