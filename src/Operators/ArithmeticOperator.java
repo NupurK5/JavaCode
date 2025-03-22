@@ -19,6 +19,7 @@ public class ArithmeticOperator {
 		//Division of two variables
 		
 		float d = b/a;
+		
 		System.out.println("Division : " + d);
 
 	}
