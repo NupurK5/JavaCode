@@ -11,6 +11,7 @@ public class ArithmeticOperator {
 		
 		System.out.println("Adition : " + c );
 		
+		
 		//multiplication of two variables
 		
 		System.out.println("Multiplcation: " + a*b);
