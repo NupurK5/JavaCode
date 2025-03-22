@@ -15,6 +15,11 @@ public class ArithmeticOperator {
 		//multiplication of two variables
 		
 		System.out.println("Multiplcation: " + a*b);
+		
+		//Division of two variables
+		
+		float d = b/a;
+		System.out.println("Division : " + d);
 
 	}
 
