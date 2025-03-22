@@ -15,6 +15,12 @@ public class ArithmeticOperator {
 		//multiplication of two variables
 		
 		System.out.println("Multiplcation: " + a*b);
+		
+		// subtracting two variables
+		
+		int d = b-c;
+		
+		System.out.println("Subtraction: " + d);
 
 	}
 
