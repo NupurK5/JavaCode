@@ -4,9 +4,10 @@ public class javaVariables {
 
 	// Java has 3 types of variables
 	/*
-	 * 1. Local variable - Which is define inside a method or in its parameter 2.
-	 * Instance variable - which is define inside the class but outside all the
-	 * methods 3. Static variable - which is define inside the class and outside all
+	 * 1. Local variable - Which is define inside a method or in its parameter 
+	 * 2. Instance variable - which is define inside the class but outside all the
+	 * methods 
+	 * 3. Static variable - which is define inside the class and outside all
 	 * the methods using static keyword
 	 */
 
